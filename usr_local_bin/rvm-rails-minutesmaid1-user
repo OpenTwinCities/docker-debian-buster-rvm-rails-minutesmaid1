@@ -2,7 +2,7 @@
 set -e
 
 ABBREV='rvm-rails-minutesmaid1'
-STR_RUBY_VERSIONS=('2.5.3')
+STR_RUBY_VERSIONS=('2.5.3' '2.5.5')
 STR_RAILS_VERSIONS=('5.2.2' '5.2.3')
 STR_PG_VERSIONS=('1.1.4')
 STR_NOKOGIRI_VERSIONS=('1.10.1')
